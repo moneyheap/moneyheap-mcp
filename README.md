@@ -1,5 +1,7 @@
 # moneyheap MCP server
 
+[![moneyheap MCP connector](https://glama.ai/mcp/connectors/ai.moneyheap/moneyheap/badges/score.svg)](https://glama.ai/mcp/connectors/ai.moneyheap/moneyheap)
+
 Stock market research from [moneyheap](https://moneyheap.ai) in Claude, ChatGPT, Codex and any other MCP client: the day's market overview, the Daily Standout, the biggest movers, trending stocks, market-moving news and the analysis of the stocks you follow.
 
 ```
